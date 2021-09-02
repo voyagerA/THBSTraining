@@ -1,0 +1,31 @@
+MODULES:
+1] Search / Filter product (Automation Testing)
+2] Buy / Rent a product (Manual Testing)
+3] Feedback (Automation Testing)
+4] Membership (Automation Testing)
+5] Renew (Manual Testing)
+6] CRUD (Automation Testing)
+
+
+Product
+1] CRUD
+2] Upgrading
+
+User
+1] Login
+2] Logout
+
+FINANCE
+
+User and Product
+1] Searching / Filtering / Sorting
+2] Feedback
+
+User and Finance
+1] Buying 
+2] Renting and Security Deposit
+2] Premium Membership
+
+User and Finance and Product
+1] Suggestions
+2] Renew
