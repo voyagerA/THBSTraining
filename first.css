@@ -1,0 +1,36 @@
+h1 {
+    color: purple;
+}
+
+h1 a{
+    color: red;
+}
+
+h1 a:hover{
+    color: green;
+}
+h3 a{
+    color: rgb(32, 197, 17);
+}
+
+h3 a:hover{
+    color: rgb(93, 255, 174);
+}
+
+#starlord {
+    border-radius: 23px 23px 23px 23px;
+-moz-border-radius: 23px 23px 23px 23px;
+-webkit-border-radius: 23px 23px 23px 23px;
+border: 2px solid #000000;
+}
+
+#starlord:hover{
+    -webkit-box-shadow: 2px 1px 20px 13px rgba(33,224,16,0.66);
+-moz-box-shadow: 2px 1px 20px 13px rgba(33,224,16,0.66);
+box-shadow: 2px 1px 20px 13px rgba(33,224,16,0.66);
+}
+
+body{
+    background-image: url(https://images.designtrends.com/wp-content/uploads/2016/02/23103700/Colorful-Train-Wallpaper.jpg);
+}
+
